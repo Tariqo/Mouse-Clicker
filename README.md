@@ -1,5 +1,5 @@
 # Mouse Clicker
- A little c++ mouse clicker that "can join" my classes for me
+ A little c++ mouse clicker that "can join" my classes for me.
  This is more of a small app for myself, but it's out there for anyone to see or use.
 # Small Notes
  -Only works for windows(since I only work with windows). 
